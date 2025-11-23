@@ -1,11 +1,11 @@
 # Cloud Security Projects
 
 ## Basic
-1. Network Security Assessment - Identifying Vulnerabilities in Network Configurations
-2. File System Security Assessment - Detecting Unauthorized Access and Modifications
-3. Web Application Security Assessment - Assessing Common Web Vulnerabiltiies
-4. System Log Assessment - Analysing Logs for Potential Security Incidents
-5. User Account Security Assessment: Evaulating User Permissions and Activity Logs 
+1. Securing AWS EC2 Instances
+2. Implementing Network Security Groups
+3. Configuring IAM Poilcies
+4. Securing AWS S3 Buckets
+5. Monitoring and Logging
 
 ## Advnaced
 1. Cloud Security Posture Management
